@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+###########
+#This is first script 
+#date :21 aug 2024
+###########
+
+#variable assign 
+name="nikhil"              # variable name assirn value nikhil 
+#print 
+echo "My name is" $name    #print my name using variable and echo cmd
+#getting data from user 
+echo "enter name "
+read username 
+echo "you enterd name $username"
